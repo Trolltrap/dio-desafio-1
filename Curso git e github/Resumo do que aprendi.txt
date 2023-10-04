@@ -1,0 +1,15 @@
+git é um controle de versão distribuido, github é um site para hospedar codigos e projetos
+aprendi a criar repositorios no git e a clonar repositorios remotos. 
+aprendi a usar branchs.
+aprendi a utilizar melhor o git hub
+
+alguns comandos para mim mesmo:
+mkdir [nome da pasta]
+git remote add [nome]
+git clone [URL] [caso queira mudar o nome da pasta]
+git init
+cd [nome do repositorio]
+git status
+git add .
+git commit -m""
+git push [origin,main]
